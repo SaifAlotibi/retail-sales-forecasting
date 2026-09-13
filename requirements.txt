@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+fastapi
+uvicorn
+streamlit
+requests
+& "C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\python.exe" -m pip install -r requirements.txt

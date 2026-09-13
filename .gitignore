@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+train.csv
+test.csv
+transactions.csv
+oil.csv
+stores.csv
+holidays_events.csv
+sample_submission.csv
+
+# Model files
+*.pkl
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
